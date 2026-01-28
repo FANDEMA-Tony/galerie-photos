@@ -74,7 +74,7 @@ Lancer le serveur Apache et MySQL
 Accéder via le navigateur : http://localhost/galerie_photos/
 
 Structure du projet
-galerie_photos_pro/
+galerie_photos/
 │
 ├── config/
 │   └── database.php         # Connexion à la base de données
