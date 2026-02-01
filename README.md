@@ -46,7 +46,7 @@ Galerie Photos Web est une application web permettant de créer, gérer et consu
 
 1. **Cloner le dépôt GitHub/GitLab :**
 ```bash
-git clone https://github.com/ton-utilisateur/galerie_photos.git
+git clone https://github.com/https://fandema-tony/galerie_photos.git
 Importer la base de données :
 
 Ouvrir phpMyAdmin
