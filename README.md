@@ -134,7 +134,3 @@ Auteurs
 Tony Bienheureux Fandema Mandandji Cappy
 Étudiant Licence Professionnelle DWM
 Email : tonybienheureuxfandema@gmail.com
-
-Licence
-Ce projet est libre à usage pédagogique. Toute reproduction ou modification doit citer l’auteur.
-
