@@ -34,7 +34,7 @@ Galerie Photos Web est une application web permettant de créer, gérer et consu
 
 ## Prérequis
 
-- Serveur web local (ex : XAMPP, WAMP)
+- Serveur web local (ex : XAMPP)
 - PHP 8 ou supérieur
 - MySQL / MariaDB
 - Navigateur moderne (Chrome, Edge, Firefox)
